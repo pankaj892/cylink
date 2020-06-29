@@ -13,7 +13,7 @@ Moreover, the knowledge can be bought in knowledge packages and the payment meth
 
 
 
-##Credits to:
+Credits to:
 
 Icons:
 https://icons8.de/
